@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuetch",
+        "uuid": 39425400,
+        "checksum": "fyryng"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
